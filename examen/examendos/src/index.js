@@ -5,6 +5,7 @@ import Saludo from './Saludo';
 import Componente from './Componente';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Componentedos from './componentedos';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -13,6 +14,7 @@ root.render(
     <Saludo danza="ballet" pais="peru" academia="perudance" imagen="images.jpg"/> 
     <Saludo danza="ballet" pais="peru" academia="perudance" imagen="images.jpg"/>
     <Componente/>  
+    <Componentedos/>
 
   </React.StrictMode>   
   

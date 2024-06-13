@@ -36,3 +36,40 @@
   border-style:dotted;
   border-color:rgb(23, 3, 114);
 }
+
+.caja-main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 50%;
+  width: 50%;
+  border:5px;
+  border-style:dotted;
+  border-color:rgb(23, 3, 114);
+
+}
+.caja-main-uno{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  border:5px;
+  border-style:dotted;
+  border-color:rgb(3, 114, 12);
+}
+.caja-main-dos{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  border:5px;
+  border-style:dotted;
+  border-color:rgb(3, 101, 114);
+}
+.cajauno{
+  border:5px;
+  border-style:dotted;
+  border-color:rgb(23, 3, 114);
+}
+
